@@ -3,6 +3,7 @@
     "version": "0.1.0",
     "author": "Diana Vlasenkova, Daria Lyutova, Ludmila Sergeeva",
     "description": "Audio player on React",
+    "homepage": "https://milasergeeva.github.io/turbina-dd/",
     "private": true,
     "dependencies": {
         "@svgr/cli": "^5.4.0",
@@ -16,7 +17,6 @@
         "react-scripts": "4.0.0",
         "web-vitals": "^0.2.4"
     },
-    "homepage": "https://dianadomino24.github.io/turbina-dd/",
     "scripts": {
         "start": "react-scripts start",
         "build": "react-scripts build",

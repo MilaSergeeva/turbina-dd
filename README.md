@@ -15,7 +15,7 @@ The feedback form allows users to join the project and share their children's po
 
 ## :link: GitPages link
 
-[GitPages](https://dianadomino24.github.io/turbina-dd/)
+[GitPages](https://milasergeeva.github.io/turbina-dd/)
 
 ---
 
@@ -24,7 +24,7 @@ The feedback form allows users to join the project and share their children's po
 1. Clone the repository:
 
 ```
-git clone https://github.com/dianadomino24/turbina-dd.git
+git clone https://github.com/MilaSergeeva/turbina-dd.git
 ```
 
 2. Install dependencies:
