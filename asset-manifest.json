@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/turbina-dd/static/css/main.0a469d69.chunk.css",
+    "main.js": "/turbina-dd/static/js/main.486f18ca.chunk.js",
+    "main.js.map": "/turbina-dd/static/js/main.486f18ca.chunk.js.map",
+    "runtime-main.js": "/turbina-dd/static/js/runtime-main.e20b2251.js",
+    "runtime-main.js.map": "/turbina-dd/static/js/runtime-main.e20b2251.js.map",
+    "static/js/2.4db14364.chunk.js": "/turbina-dd/static/js/2.4db14364.chunk.js",
+    "static/js/2.4db14364.chunk.js.map": "/turbina-dd/static/js/2.4db14364.chunk.js.map",
+    "static/js/3.f133de86.chunk.js": "/turbina-dd/static/js/3.f133de86.chunk.js",
+    "static/js/3.f133de86.chunk.js.map": "/turbina-dd/static/js/3.f133de86.chunk.js.map",
+    "index.html": "/turbina-dd/index.html",
+    "static/css/main.0a469d69.chunk.css.map": "/turbina-dd/static/css/main.0a469d69.chunk.css.map",
+    "static/js/2.4db14364.chunk.js.LICENSE.txt": "/turbina-dd/static/js/2.4db14364.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/turbina-dd/static/media/inter-900.769f5bb9.woff2",
+    "static/media/IMG_1-min.78875f6b.jpg": "/turbina-dd/static/media/IMG_1-min.78875f6b.jpg",
+    "static/media/logo.2155b0aa.svg": "/turbina-dd/static/media/logo.2155b0aa.svg",
+    "static/media/play-clip.d986f0e9.svg": "/turbina-dd/static/media/play-clip.d986f0e9.svg",
+    "static/media/Турбина.c2d25f7e.svg": "/turbina-dd/static/media/Турбина.c2d25f7e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e20b2251.js",
+    "static/js/2.4db14364.chunk.js",
+    "static/css/main.0a469d69.chunk.css",
+    "static/js/main.486f18ca.chunk.js"
+  ]
+}
